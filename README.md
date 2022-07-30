@@ -1,4 +1,5 @@
-TRIVIA APP
+<h1>TRIVIA APP
+
 # Introduction
 I built this project during my program on Udacity FullStack Nanaodegree course. This project helped me demonstrate and implement standard API creation skills and to understand how the API fits with the Frontend.
     
